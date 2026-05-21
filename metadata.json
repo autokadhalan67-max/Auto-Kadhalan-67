@@ -1,0 +1,6 @@
+{
+  "name": "Auto Kadhalan 67",
+  "description": "Premium Aruppukottai ride-hailing and tracking navigator application for drivers and customers with custom offline maps, live trip simulators, ratings, and call logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
